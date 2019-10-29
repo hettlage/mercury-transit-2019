@@ -3,7 +3,7 @@
 On the afternoon and evening of 11 November 2019 a rare celestial event will take place. The planet Mercury moves between the Sun and Earth. Observers all over Africa will be able to see a tiny black dot making its way  across the solar disk.
 
 <figure class="image">
-<img src="/images/tom_mainpic_cat.jpg" style="max-width: 500px">
+<img alt="Path of Mercury across the solar disk on 11 November 2019" src="/images/tom_mainpic_cat.jpg" style="max-width: 500px">
 <figcaption>The transit of Mercury on 11 November 2019.</figcaption>
 </figure>
 
@@ -26,7 +26,7 @@ Will the transit start at exactly the same moment for all of Africa? Not really.
 This small time difference has been used by astronomers in centuries past to try and measure the distance between Earth and Mercury, giving them the leverage to calculate all distances in our solar system.
 
 <figure class="image">
-<img src="/images/tm2019.gif">
+<img alt="Map of the world showing the visibility of the transit" src="/images/tm2019.gif">
 <figcaption>Visibility of the transit across the world. Image credit: <a href="http://www.eclipsewise.com/oh/tm2019.html" class="credit">Fred Espenak</a></figcaption>
 </figure>
 
@@ -41,7 +41,7 @@ You may have seen a solar eclipse through eclipse goggles, a pin hole camera or 
 The safest way to see the transit is to project the image of the Sun on to a sheet of paper or a screen, and see this image. By using a telescope to project a steady, well focused and large image of the sun, one will be able to study the sun at one’s leisure, with no risk to the eyes. It has the added advantage that many people can see the transit at the same time. For students interested in making some quantitative measurements of the sun or even the transit, projection is the best method. **However, make sure that nobody accidentally or intentionally looks through the eyepiece**.
 
 <figure class="image">
-<img src="/images/projection.jpg">
+<img alt="Illustration of how to use projection to view the transit" src="/images/projection.jpg">
 <figcaption>
 How to safely view the transit with a telescope. Image credit: <a href="https://www.eso.org/public/outreach/eduoff/vt-2004/mt-2003/" class="credit">ESO</a>
 </figcaption>
@@ -64,7 +64,7 @@ There have been many published historic observations from Africa by astronomers 
 # Let us know about your viewing event
 
 <figure class="image" style="float: left; max-width: 300px; margin-top: 10px;">
-<img src="/images/tov.jpg" style="width: 256px">
+<img alt="A group observing the Sun by means of projection" src="/images/tov.jpg" style="width: 256px">
 <figcaption>Image credit: <a href="http://navnirmitilearning.org" class="credit">Navnirmiti Learning Foundation</a></figcaption>
 </figure>
 
@@ -82,7 +82,7 @@ More detailed information about the Mercury transit is available from the [Guide
 <div>
 <figure class="image">
 <a href="/docs/ToM_2019_Africa_Handbook.pdf">
-<img class="card" src="/images/ToM_2019_Africa_Handbook_Thumbnail.jpg">
+<img alt="Thumbnail of the front page of the Guide to the Transit of Mercury" class="card" src="/images/ToM_2019_Africa_Handbook_Thumbnail.jpg">
 </a>
 <figcaption><a href="/docs/ToM_2019_Africa_Handbook.pdf">Guide to the Transit of Mercury</a></figcaption>
 </figure>
@@ -90,7 +90,7 @@ More detailed information about the Mercury transit is available from the [Guide
 <div>
 <figure class="image">
 <a href="/docs/TransitOfMercuryPoster.pdf">
-<img class="card" src="/images/TransitOfMercuryPoster.jpg">
+<img alt="Thumbnail of the transit of Mercury poster" class="card" src="/images/TransitOfMercuryPoster.jpg">
 </a>
 <figcaption><a href="/docs/TransitOfMercuryPoster.pdf">Transit of Mercury Poster</a></figcaption>
 </figure>

@@ -34,7 +34,7 @@ So for how long can you see the transit from your location? Till your local suns
 
 # How can you observe it?
 
-**REMEMBER: *NEVER* look at the Sun through a telescope or binoculars!**
+{{< warning >}}
 
 You may have seen a solar eclipse through eclipse goggles, a pin hole camera or even through the shadows cast by tiny holes in between leaves of a tree. You may even have seen the transit of Venus in 2012 through a very simple telescope. However, Mercury will be about 190th the size of the Sun's disk, and you would therefore certainly need a small telescope to see the transit. An image of the Sun that is at least 15-30 cm in diameter is needed in order that Mercury can be seen as a dot of 1-2 mm size on its surface.
 

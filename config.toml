@@ -1,0 +1,4 @@
+baseURL = "http://transit2019.saao.ac.za/"
+languageCode = "en-us"
+title = "Mercury Transit 2019"
+theme = "transit2019"

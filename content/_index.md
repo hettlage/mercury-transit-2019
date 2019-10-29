@@ -76,7 +76,7 @@ Also feel free to send us any photos taken during your event - we'll be happy to
 
 # Find out more
 
-More detailed information about the Mercury transit is available from the [Guide to the Transit of Mercury of 11th November 2019](/docs/ToM_2019_Africa_Handbook.pdf).
+More detailed information about the Mercury transit is available from the [Guide to the Transit of Mercury of 11th November 2019](/docs/ToM_2019_Africa_Handbook.pdf) and the [Transit of Mercury poster](/docs/TransitOfMercuryPoster.pdf).
 
 <div class="resources">
 <div>

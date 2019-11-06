@@ -61,6 +61,12 @@ Christiaan Huygens observed the next transit in 1661, and the following one was 
 
 There have been many published historic observations from Africa by astronomers of European origin, notably of the transits of Mercury on 5 Nov 1868 from Cape Town in South Africa, on 10 Nov 1894 from Grahamstown in South Africa, on 14 November 1907 from Johannesburg in South Africa, Chiloanga in DRC and Mauritius.
 
+# Viewing events
+
+We are currently aware of the following planned events for viewing the transit.
+
+{{< events >}}
+
 # Let us know about your viewing event
 
 <figure class="image" style="float: left; max-width: 300px; margin-top: 10px;">

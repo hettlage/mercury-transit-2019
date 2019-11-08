@@ -65,6 +65,8 @@ There have been many published historic observations from Africa by astronomers 
 
 We are currently aware of the following planned events for viewing the transit.
 
+<iframe width="100%" height="520" frameborder="0" src="https://astro4dev.carto.com/viz/abd9d842-d398-4024-bb8a-5624db42c489/embed_map" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+
 {{< events >}}
 
 # Let us know about your viewing event
